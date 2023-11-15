@@ -1,0 +1,2 @@
+Raspberry Piのマイクハードウエア+ALSAドライバを経由した音声データを模擬して用意された学習データ
+"AirCompressorDataset_ALSA"から抜粋して作成
